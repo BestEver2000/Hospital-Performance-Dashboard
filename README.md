@@ -22,5 +22,15 @@ The dataset contains:
 ## Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
 
+
+## Live Dashboard
+[View the interactive dashboard](https://app.powerbi.com/links/39-ENdBX2O?ctid=eb9ef36f-2911-47ff-8890-1dcaa4a51ffb&pbi_source=linkShare&bookmarkGuid=69676384-46cb-4d11-a6c1-3119dee65b08)
+
+
 ## Files Included
+- `Hospital Dashboard.pbix` : Power BI dashboard file
+- `Dashboard.png` : Screenshot preview of the dashboard
+- `hospital_data.csv` : Dataset used in the dashboard
+
+
 
